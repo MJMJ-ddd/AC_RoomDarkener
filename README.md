@@ -27,7 +27,8 @@
 ## インストール
 
 1. [BepInEx 6 (IL2CPP)](https://github.com/BepInEx/BepInEx) をゲームに導入する
-2. `AC_RoomDarkener.dll` を以下へ配置する
+2. [Releases](https://github.com/MJMJ-ddd/AC_RoomDarkener/releases) から最新の zip をダウンロードする
+3. `AC_RoomDarkener.dll` を以下へ配置する
 
 ```
 Aicomi/BepInEx/plugins/AC_RoomDarkener/AC_RoomDarkener.dll
